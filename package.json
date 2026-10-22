@@ -22,8 +22,7 @@
   "type": "module",
   "types": "./types",
   "dependencies": {
-    "bare-node-runtime": "^1.5.0",
-    "bare-tls": "^3.1.13"
+    "bare-node-runtime": "^1.5.2"
   },
   "scripts": {
     "build:types": "tsc",
